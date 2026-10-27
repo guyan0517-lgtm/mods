@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mod_1791993449183",
+    "name": "COC6th-暖炉茶香猫咪伴",
+    "title": "COC6th-暖炉茶香猫咪伴",
+    "author": "守秘人",
+    "summary": "你回过神时，发现自己正坐在一间陌生房间的暖炉里。",
+    "desc": "你回过神时，发现自己正坐在一间陌生房间的暖炉里。",
+    "type": "线性",
+    "ruleSystem": "coc",
+    "scaleType": "1v1",
+    "tags": [
+      "日模",
+      "安全",
+      "茶番"
+    ],
+    "chapterCount": 4,
+    "wordCount": 5193,
+    "coverImage": "vault://img_3c0e38c4a5aaf9cc_110f.jpg",
+    "updatedAt": 1793065687239
+  }
+]
